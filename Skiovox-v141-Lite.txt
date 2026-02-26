@@ -1,4 +1,4 @@
-# incognito 
+# Skiovox v141 Lite 
 
 Found (again) by: 2pro12342 
 Originally Created By: NotGamerFromGamerTown
@@ -54,7 +54,10 @@ Second Box: 0.0.0.0
 Third Box: 0.0.0.0
 fourth Box: 0.0.0.0
 4: Disconnect and Reconnect (Make sure WiFi says "Sign-In to Network")
-5: Sign Out
+5: Sign Out 
+
+Method 3: 
+1: Use CAUB + DNS Editor
 
 Continue After Method: 
 1: Go to Any Kiosk App (bottom left corner of the sign-in screen)
@@ -62,22 +65,44 @@ Continue After Method:
 3: Click the Sign in to Network 
 4: When loaded click the “Webview link for tests” text
 
-To Open a chrome window: 
+To Open a chrome window (Chrome extensions, chrom urls, etc. Basically Guest mode): 
+
+Method 1: (Skiovox v141)
 1: go to any HTML editor
 2: HTML code: 
 <script>window.open("javascript:alert();");</script> 
 3: Run 
 
+Method 2: (Chrome UI/Features) 
+1: Go to W3Schools and find any tutorial on buttons 
+(Open File Manager, Chrome URLs, Chrome OS Settings, etc.) 
+2: Open tutorial and click "Run" button
+
+Method 3: (Chrome bugs) 
+1: find a way to open the cert manager / cert viewer. 
+2: Find a "Export" or "Import" cert file and click it. 
+(File Manager should open)
+3: Click the 3 dots in the top right corner. 
+4: find a button to open settings/media app. 
+5: When opened, hit "CTRL + T" or "CTRL + N" 
+
+Method 4: (Chrome Vox) 
+1: Do "CTRL + Alt + Z". 
+2: Do "Search + O" then "Search + K"/"Search + T". 
+3: Click "Resouces". 
+4: Click any Link. 
+
 How to Revert: 
 Exit: hold power 
-WiFi: switch to Automatic Name Servers
+WiFi: switch to Automatic Name Servers 
+(If WiFi Doesn't reset, Forget WiFi)
 
 Credits: 
 Skiovox 141 = Crosbreaker (Opens a Chrome Window). 
 
+Chrome Kiosk Bug = Schoolexploitkid
+
 Originally Created By: NotGamerFromGamerTown
 Hosted: SpaceSaver2000
 
-2pro (me) found this exploit that works on Kiosk Apps. 
-
-Beta testers: M0stw3nt3d, WhatAmIDoing921, and GrassbutReal
+2pro12342 (me) found this exploit that works on Kiosk Apps. 
